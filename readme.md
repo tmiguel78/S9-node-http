@@ -20,7 +20,7 @@ Importar el módulo de datos `data.js` en el archivo del servidor para acceder a
 
 4. Configurar la Respuesta del Servidor:
 
-Configurar el servidor para responder con un documento HTML. Puedes utilizar el método `res.end()` para escribir dentro tu HTML (con su !DOCTYPE, H1, H2... lo que creas que es necesario)con la datos de `data.js`
+Configurar el servidor para responder con un documento HTML. Puedes utilizar el método `res.end()` para escribir dentro tu HTML (con su !DOCTYPE, H1, H2... lo que creas que es necesario)con los datos de `data.js`
 
 5. Iniciar el Servidor:
 
